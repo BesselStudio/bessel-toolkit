@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.22.2](https://github.com/besselstudio/bessel-toolkit/tree/main/packages/bessel-uikit/compare/@besselstudio/uikit@0.22.0...@besselstudio/uikit@0.22.2) (2021-04-11)
+
+
+### Bug Fixes
+
+* Fix package version uikit ([3f095ba](https://github.com/besselstudio/bessel-toolkit/tree/main/packages/bessel-uikit/commit/3f095bab8481341335cd5d84702977e82048067e))
+* Fixed release branch ([66a2398](https://github.com/besselstudio/bessel-toolkit/tree/main/packages/bessel-uikit/commit/66a23984777e032835c83f5f52c4bc2a968662ab))
+
+
+
+
+
 # 0.22.0 (2021-04-11)
 
 
