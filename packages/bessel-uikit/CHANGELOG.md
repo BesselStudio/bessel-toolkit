@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.22.7](https://github.com/besselstudio/bessel-toolkit/compare/@besselstudio/uikit@0.22.6...@besselstudio/uikit@0.22.7) (2021-04-12)
+
+
+### Bug Fixes
+
+* Verify access lerna ([e6dc3d6](https://github.com/besselstudio/bessel-toolkit/commit/e6dc3d6f51b03829b4307e5e215a0c74753195a8))
+
+
+
+
+
 ## [0.22.6](https://github.com/besselstudio/bessel-toolkit/compare/@besselstudio/uikit@0.22.5...@besselstudio/uikit@0.22.6) (2021-04-12)
 
 
