@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.22.4](https://github.com/besselstudio/bessel-toolkit/tree/main/packages/bessel-uikit/compare/@besselstudio/uikit@0.22.3...@besselstudio/uikit@0.22.4) (2021-04-12)
+
+
+### Bug Fixes
+
+* Update env to lerna publish ([7bf7a71](https://github.com/besselstudio/bessel-toolkit/tree/main/packages/bessel-uikit/commit/7bf7a71da8c9f38002f99aa337fc2077523a84b1))
+
+
+
+
+
 ## [0.22.3](https://github.com/besselstudio/bessel-toolkit/tree/main/packages/bessel-uikit/compare/@besselstudio/uikit@0.22.2...@besselstudio/uikit@0.22.3) (2021-04-12)
 
 
