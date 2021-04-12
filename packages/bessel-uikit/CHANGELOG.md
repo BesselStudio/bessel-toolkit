@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.22.8](https://github.com/besselstudio/bessel-toolkit/compare/@besselstudio/uikit@0.22.7...@besselstudio/uikit@0.22.8) (2021-04-12)
+
+
+### Bug Fixes
+
+* Fix version ([06d344d](https://github.com/besselstudio/bessel-toolkit/commit/06d344dce08eb43bafd2fda22ab2a5ec68d290b6))
+* Replace CI token with Personal token ([1ca258e](https://github.com/besselstudio/bessel-toolkit/commit/1ca258ec350a2b4014f44bf258d3028b1049208d))
+
+
+
+
+
 ## [0.22.7](https://github.com/besselstudio/bessel-toolkit/compare/@besselstudio/uikit@0.22.6...@besselstudio/uikit@0.22.7) (2021-04-12)
 
 
