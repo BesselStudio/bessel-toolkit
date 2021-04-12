@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.22.6](https://github.com/besselstudio/bessel-toolkit/compare/@besselstudio/uikit@0.22.5...@besselstudio/uikit@0.22.6) (2021-04-12)
+
+
+### Bug Fixes
+
+* Fix owner ([378c9ed](https://github.com/besselstudio/bessel-toolkit/commit/378c9ed01a5d8ae54cf45413b1c8970e5465bce6))
+
+
+
+
+
 ## [0.22.5](https://github.com/besselstudio/bessel-toolkit/compare/@besselstudio/uikit@0.22.4...@besselstudio/uikit@0.22.5) (2021-04-12)
 
 
