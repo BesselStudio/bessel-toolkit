@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.22.9](https://github.com/besselstudio/bessel-toolkit/compare/@besselstudio/uikit@0.22.8...@besselstudio/uikit@0.22.9) (2021-04-14)
+
+
+### Bug Fixes
+
+* Fix deploy npmrc ([2f12493](https://github.com/besselstudio/bessel-toolkit/commit/2f12493ef773ab2102de609f63fea365054a56a0))
+
+
+
+
+
 ## [0.22.8](https://github.com/besselstudio/bessel-toolkit/compare/@besselstudio/uikit@0.22.7...@besselstudio/uikit@0.22.8) (2021-04-12)
 
 
